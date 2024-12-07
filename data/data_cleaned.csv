@@ -1,4 +1,4 @@
-gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,stroke
+gender,age,hypertension,heart_disease,ever_married,work_type,residence_type,avg_glucose_level,bmi,smoking_status,stroke
 1,0.81689453125,0,1,1,2,1,0.8012648878219925,0.3012600229095075,1,1
 0,0.74365234375,0,0,1,3,0,0.6790231742221402,0.21299610426346494,2,1
 1,0.9755859375,0,1,1,2,0,0.2345120487489613,0.2542955326460481,2,1
